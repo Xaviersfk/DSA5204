@@ -1,0 +1,8 @@
+train: ../datasets/road_sign_dataset/images/train/
+val:  ../datasets/road_sign_dataset/images/val/
+test: ../datasets/road_sign_dataset/images/test/
+
+nc: 4
+
+
+names: ['trafficlight', 'stop', 'speedlimit', 'crosswalk']
